@@ -1,0 +1,9 @@
+Change the wallpaper using weather data.
+
+* Show weather.
+* Show a picture.
+* Change the wallpaper.
+* Set the API.
+
+Weather from https://openweathermap.org/
+Pictures from https://unsplash.com/

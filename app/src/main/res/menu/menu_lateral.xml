@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group >
+        <item
+            android:id="@+id/menu_actualizar"
+            android:icon="@drawable/refresh"
+            android:title="@string/Actualizar"
+            android:onClick="clicMenu"
+            />
+
+
+
+
+        <item
+            android:id="@+id/menu_opciones"
+            android:icon="@drawable/wrench"
+            android:title="@string/Configuracion"
+            android:onClick="clicMenu"
+
+            />
+
+        <item
+            android:id="@+id/menu_ayuda"
+            android:icon="@drawable/information_circled"
+            android:title="@string/Ayuda"
+            android:onClick="clicMenu"
+            />
+
+
+
+    </group>
+
+    <item android:title="Sitios">
+        <menu>
+            <item
+                android:id="@+id/menu_proyectos"
+                android:icon="@drawable/briefcase"
+                android:title="@string/Proyectos"
+                android:onClick="clicMenu"
+                />
+            <item
+                android:id="@+id/menu_donar"
+                android:icon="@drawable/heart"
+                android:title="@string/Colabora"
+                android:onClick="clicMenu"
+                />
+        </menu>
+    </item>
+
+</menu>

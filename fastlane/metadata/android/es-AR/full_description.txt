@@ -1,0 +1,10 @@
+Cambia el fondo de pantalla según el clima actual.
+
+* Muestra el clima actual.
+* Muestra una fotografía en el fondo.
+* Cambia el fondo de pantalla.
+* Permite actualizar manualmente.
+* Permite configurar la API.
+
+Obtiene información del clima de https://openweathermap.org/
+Utiliza recursos (fotografías) de https://unsplash.com/

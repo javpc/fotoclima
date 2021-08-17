@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="indicador_valor">30sp</dimen>
+    <dimen name="indicador_unidad">15sp</dimen>
+</resources>

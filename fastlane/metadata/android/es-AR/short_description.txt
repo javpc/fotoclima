@@ -1,0 +1,1 @@
+Cambia el fondo de pantalla según el clima.
